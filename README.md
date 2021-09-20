@@ -1,6 +1,6 @@
 # dbg-server
-This is a very simple cli tool which exposes a plain htto server for debugging of http clients.
-It can be useful when creating clients which send http data and theres a need for a simple server which just sends the data to console for debugging purposes.
+This is a very simple cli tool which exposes a plain http server for debugging of http clients.
+It can be useful when creating clients which send http data and theres a need for a simple server which just sends the data to console for debugging/human verification purposes.
 
 ## installation
 ```
